@@ -1,6 +1,6 @@
 web_detective
-./vscode
+.vscode/
 .env
 .env.local
-
-s
+go.mod
+go.sum
